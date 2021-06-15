@@ -35,7 +35,7 @@ for(int i = 0; i < n; i++)
 return res.toString();
 ```
 
-方法3 字符串遍历拼接
+### 方法3 字符串遍历拼接
 
 ```java
 String res = "";
